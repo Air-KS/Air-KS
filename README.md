@@ -1,6 +1,7 @@
-## Hi there 👋, I'm ROGERET Kevin 
-#### I am passionate about video games, computer science, and programming of all kinds
+## <p align="center">👋 Hey, welcome visitor !👋 </p>
+#### <p align="center"> I am passionate about video games, computer science, and programming of all kinds </p>
 
+![Image](https://media.licdn.com/dms/image/D4E16AQF189dD1u__ZA/profile-displaybackgroundimage-shrink_350_1400/0/1699210951927?e=1718841600&v=beta&t=bK9eIe8KKy8qtYncwNxoZs62cH0DJf6NRDOAoL8znns)
 --------------------------------------
 <!--
 **Air-KS/Air-KS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
