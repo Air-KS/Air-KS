@@ -2,7 +2,6 @@
 #### <p align="center"> I am passionate about video games, computer science, and programming of all kinds </p>
 
 ![Image]([https://media.licdn.com/dms/image/v2/D4E16AQF189dD1u__ZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1699210951927?e=1732752000&v=beta&t=t3Wahh8jcQ2gze9gvH24k9ib1obub0oIEPxkt43jpTU])
-![Image]([https://media.licdn.com/dms/image/v2/D4E16AQF189dD1u__ZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1699210951927?e=1732752000&v=beta&t=t3Wahh8jcQ2gze9gvH24k9ib1obub0oIEPxkt43jpTU])
 --------------------------------------
 <!--
 **Air-KS/Air-KS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
